@@ -1,4 +1,4 @@
-const apiKey = "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";
+const apiKey = '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';
 const apiUrl = "https://api.openai.com/v1/chat/completions";
 
 async function sendMessage(message) {
